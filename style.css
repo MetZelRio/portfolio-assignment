@@ -1,0 +1,97 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#wrapper{
+    width: 970px;
+    background-color:rgb(224, 208, 208);
+margin: auto;
+}
+
+#header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    font-family: 'Comic Neue', cursive;
+}
+
+#purple{
+    background: linear-gradient(rgb(89,67,98),rgb(174,103,168));
+    padding: 20px;
+}
+
+#profile img{
+    width: 450px;
+    border: 5px solid silver 
+
+}
+
+#profile{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    ;
+}
+
+#about{
+    background-color: rgb(243,237,242);
+    width: 450px;
+}
+
+h3{
+    background-color: slategrey;
+    padding: 10px;
+    color: snow;
+    margin: 0;
+}
+
+#about p{
+    padding: 15px;
+}
+
+#about a{
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+#projects{
+    display: flex;
+    justify-content: space-between;
+}
+
+.columns{
+    width: 295px;
+    height: 250px;
+    background: white;
+}
+
+.columns img{
+    width: 295px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul{
+    list-style-type: none;
+}
